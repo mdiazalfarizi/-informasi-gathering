@@ -13,5 +13,15 @@ Prodi : Teknik Komputer
 
    ![dua](https://github.com/user-attachments/assets/0e190d1e-950c-48b9-a104-4e47aa66f57a)
 
+3. Dari contoh command di atas bisa di kombinasikan dengan opsi lain, misalnya -t untuk melihat threads. contohnya seperti ini sublist3r -d youtube.com -t 5 dengan menggunakan -t 5 berfungsi untuk melihat
+
+   ![1](https://github.com/user-attachments/assets/30d8df24-eca9-4526-809d-d04bebeae3fb)
+
+4. Opsi yang bisa dicoba selanjutnya yaitu -p befungsi untuk melihat port yang aktif, contohnya sublist3r -d youtube.com -p 443,80 disini kita ingin mengecek port 443 , dan 80
+
+   ![2](https://github.com/user-attachments/assets/cc0ab89a-9bde-4608-9820-ff2580c0ebf1)
+
+
+
 
 
